@@ -20,3 +20,7 @@
 (defn greet
   []
   (println (str "Hi there " name)))
+
+(def greet-properly
+  []
+  (println (str "As Salaamu Alaikum " name)))
